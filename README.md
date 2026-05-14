@@ -30,6 +30,12 @@ If you have any questions, or just want to say 'hi', you can catch me on Twitter
 
 ## Credits
 
+### Mangaplay Studio
+
+The [Mangaplay Studio App](https://mangaplay.studio/app) and [Mangplay For Google Docs](https://chromewebstore.google.com/detail/hiidpbendbgfcdidhccnldbkgdeikibi) was developed by Pistol Taeja to accompany the format while developing mangas in 2022.
+
 ### Fountain Format
 
-### Fountain Code
+Fountain comes from several sources. John August and Nima Yousefi developed Scrippets, which used simple markup to embed screenplay-formatted material in websites. Stu Maschwitz drafted a more extensive spec known as Screenplay Markdown or SPMD, designed for full-length screenplays.
+
+Stu and John discovered that they were simultaneously working on similar text-based screenplay formats, and merged them into what you see here. Other contributors to the spec include Martin Vilcans, Brett Terpstra, Jonathan Poritsky, and Clinton Torres.
