@@ -14,6 +14,8 @@ For more details on Fountain see http://mangaplay.studio.
 
 ## Overview
 
+See [syntax.md](syntax.md) for the full format specification.
+
 ## Usage
 
 ## License
